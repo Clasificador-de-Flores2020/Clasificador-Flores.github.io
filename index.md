@@ -47,3 +47,5 @@ En este proyecto se hara de la ayuda de las personas quienes mas aporten mediant
 personas quienes realicen mas commits se ganaran una responsabilidad dentro del proyecto para la mejora de la organización 
 y dependiendo de las responsibilidades adquiridas podrán tomar las mejores decisiones para el proyecto.
 
+**Si desea existe el canal de discord para la comunicación**
+ [Discord de la Aplicación](https://discord.gg/h5DEnZCc)
